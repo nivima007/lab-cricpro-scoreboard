@@ -1,0 +1,51 @@
+/* Type your code here */
+
+body{
+	background-image: url(./assets/background-img1.png);
+	
+position: absolute;
+	background-size: cover;
+}
+
+header{
+margin-left:300%;
+}
+
+h2{
+font-weight: 10;
+font-size: 6rem;
+}
+
+h4{
+	color: grey;
+	font-size: 4rem;
+}
+
+table{
+	font-size: 2rem;
+	font-weight: 10;
+	border-radius: 2px;
+	border-style: solid;
+	border-color: black;
+	width: 2500px;
+	height: 800px;
+	position: absolute;
+}
+th,td{
+	padding:10px;
+	border:solid 1px;
+	border-right: none;
+	border-left: none;
+	text-align: left;
+}
+table,td,th{
+	border-collapse: collapse;
+}
+.footer{
+    
+	margin-top: 100%;
+	margin-left: 80px;
+	}
+	.fill{
+		background-color: orangered;
+	}
